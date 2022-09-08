@@ -1,0 +1,62 @@
+#+TITLE: Parts of a Cellphone
+* Electric Circuits
+
+Before computers, we had electric circuits. Even telephones lines had to be manually connected because they used analog signals.
+
+* Switch Board
+
+[[./Pictures/switchboard.jpg]]
+
+* Electric Circuit Picture
+
+[[./Pictures/circuit.jpg]]
+
+* PCB
+Circuits got so complex and small, that wiring them by hand was not practical. We used machines to "print" them on an assembly line. These are called Printed Circuit Boards or PCBs.
+
+* PCB History
+"In 1936, Austrian inventor Paul Eisler developed the first PCB to operate a radio system, based on a circuit design originally patented by Charles Ducas. The technology was quickly picked up by the United States military and used in proximity fuses during World War II. The technology was released to the public in 1948, and printed circuit boards, also known as printed wiring boards (PWBs), started to evolve."
+
+[[https://www.printedcircuits.com/blog/history-of-pcbs/][source]]
+
+* Micro Controllers
+One step up in complexity from PCBs, we have micro controllers. Micro controllers are built /on/ printed circuit boards. So we add a few components to a PCB so that it can do basic work, and it is a micro controller. Micro controllers can handle basic instructions. The key word is "controller", as they are the brain of many electronics to control their functionality.
+
+* Micro Controllers Examples
+
+- Speakers
+- Robotic Arm
+- Christmas Lights
+- Digital Thermometer
+
+* Arduino
+
+Arduinos are the most common micro controllers. In the next picture, notice what they /don't/ have. They don't have video output or a CPU unit. They are not powerful enough for video output. They have almost no storage or memory. They are kind of just programmable circuit boards.
+
+* Arduino Picture
+
+[[./Pictures/arduino.jpg]]
+
+* Micro Processors
+
+Another step up in complexity is micro processors. These are full fledged computers. They have a processor, memory, and can handle video output. Again, these are built on printed circuit boards. The most common micro processors are Raspberry Pis.
+
+* Micro Processor Uses
+
+Some common uses are:
+
+- Tiny Minecraft or media Servers
+- Arcade Machines
+- Remote Monitoring Equipment
+
+* Raspberry Pi
+
+[[./Pictures/raspberrypi.png]]
+
+* Cellphone
+
+Now that we know about the parts of a computer and micro processors. We can finally try to understand our cellphones. At the heart of your cellphone is a micro processor. It is not a raspberry pi, but it is one specially made for your particular device. However, this is not to say you couldn't make a [[https://learn.adafruit.com/piphone-a-raspberry-pi-based-cellphone/featured_products][cellphone out of a raspberry pi]]! Plug in all the parts found in that link and WALLAH, you have a cellphone.
+
+* Video
+
+[[https://www.youtube.com/watch?v=jlAWx_X5opA][Will Young Americans Want to Work in Semiconductor Manufacturing?]]
