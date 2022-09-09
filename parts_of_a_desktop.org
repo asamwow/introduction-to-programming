@@ -62,7 +62,7 @@ CPU stands for Central Processing Unit. It is the central brain of the computer.
 
 * GPU
 
-GPU stands for Graphical Processing Unit. It is a specialized processor that handles graphical operations only. Just like the CPU, it works hard and gets very hot and requires its own fans directly on the chip. Again it can be liquid cooled but is less common than it is the CPU.
+GPU stands for Graphical Processing Unit and is also known as the Video Card. It is a specialized processor that handles graphical operations only. Just like the CPU, it works hard and gets very hot and requires its own fans directly on the chip. Again it can be liquid cooled but is less common than it is the CPU.
 
 * GPU vs CPU
 
