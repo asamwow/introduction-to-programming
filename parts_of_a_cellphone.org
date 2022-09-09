@@ -14,6 +14,10 @@ Before computers, we had electric circuits. Even telephones lines had to be manu
 * PCB
 Circuits got so complex and small, that wiring them by hand was not practical. We used machines to "print" them on an assembly line. These are called Printed Circuit Boards or PCBs.
 
+* PCB Picture
+
+[[./Pictures/pcb.jpg]]
+
 * PCB History
 "In 1936, Austrian inventor Paul Eisler developed the first PCB to operate a radio system, based on a circuit design originally patented by Charles Ducas. The technology was quickly picked up by the United States military and used in proximity fuses during World War II. The technology was released to the public in 1948, and printed circuit boards, also known as printed wiring boards (PWBs), started to evolve."
 
